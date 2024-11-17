@@ -29,7 +29,7 @@
 <body>
     <h1>Welcome to My Website</h1>
     <p>
-        <a href="https://rru.ac.in/wp-content/uploads/2023/06/Fee-Structure-FY-2023-24.pdf" target="_blank">Read more</a>
+        <a href="https://www.sitsitamarhi.ac.in/wp-content/uploads/2024/01/Placement-Brochure-2023-2024_SIT-Sitamarhi.pdf" target="_blank">Read more</a>
     </p>
 </body>
 </html>
