@@ -29,7 +29,7 @@
 <body>
     <h1>Welcome to My Website</h1>
     <p>
-        <a href="document.pdf" target="_blank">Click here to view or download the PDF</a>
+        <a href="https://mjpru.ac.in/NoticeBoard/Admission/2024/BHrochurePandey09082024.pdf" target="_blank">Click here to view or download the PDF</a>
     </p>
 </body>
 </html>
